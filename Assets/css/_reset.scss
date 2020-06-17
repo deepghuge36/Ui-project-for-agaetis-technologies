@@ -1,0 +1,15 @@
+@import './fonts';
+@import './colors';
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: $font;
+  background-color: $white;
+}
+a {
+  text-decoration: none;
+}
