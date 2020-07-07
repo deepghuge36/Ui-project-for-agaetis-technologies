@@ -6,7 +6,7 @@ Using Sass
 ```
 [refer Sass](https://sass-lang.com/)
 
-[live link of github](https://deepghuge36.github.io/project/)
+https://deepghuge36.github.io/Ui-project-for-agaetis-technologies/
 
 ## Contact me
 
